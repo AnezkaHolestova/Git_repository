@@ -5,3 +5,5 @@
 #proč to nejde
 
 usethis::use_github()
+
+#tak co
